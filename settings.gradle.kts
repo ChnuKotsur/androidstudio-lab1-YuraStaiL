@@ -16,3 +16,6 @@ dependencyResolutionManagement {
 rootProject.name = "My Application"
 include(":app")
 include(":lab1application")
+include(":beareradviser-lab2")
+include(":countryadviser-lab2")
+include(":stopwatch")

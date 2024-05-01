@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Country Adviser - lab2</string>
+    <string name="find_city">Find Country!</string>
+    <string name="anthem">No city selected</string>
+    
+    <string-array name="cities">
+        <item>Seychelles</item>
+        <item>Switzerland</item>
+        <item>Bolivia</item>
+        <item>Denmark</item>
+        <item>Italy</item>
+    </string-array>
+</resources>
